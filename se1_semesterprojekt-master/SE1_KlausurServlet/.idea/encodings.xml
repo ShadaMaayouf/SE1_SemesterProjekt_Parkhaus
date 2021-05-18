@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/Controller.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/DemoServlet.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/IController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/IModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/IView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/MinutenEinnahmen.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/Model.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/Singleton_Parkhaus.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/SummenKlasse.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/TagesEinnahmen.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/ViewParkdauer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/Parkhaussystem/ViewTageseinnahmen.java" charset="windows-1252" />
+  </component>
+</project>

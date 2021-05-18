@@ -1,0 +1,22 @@
+MAX
+Parkhausklasse auf Grundlage des Singleton-Patterns
+Verständnis/Einarbeitung ins Pattern: 0,2 PT
+Entwicklung: 0,5 PT
+Verknüpfung mit Servlet: 1,5 PT
+Anwendung auf weitere Klassen: 0,5 PT   
+
+    SHADA
+Berechnung der verschiedenen Summen der Parkhaus-Einnahmen auf   Grundlage des Template-Design-Patterns:
+Genaues Verständnis des Template Patterns: 0,5 PT
+Integrierung des Patterns in das Projekt: 1,5 PT
+Anbindung an weiteren Klassen insbesondere die Singleton Klasse: 1 PT
+Ausgabe über Button im Frontend: 0,5 PT
+
+
+    DENNIS
+Managersicht (Tageseinnahmen)/Kundensicht (Parkdauer) auf MVC-Grundlage
+Verständnis/Einarbeitung ins Pattern: 1 PT
+Entwicklung:1 PT
+Anbindung ans Servlet: 0,5 PT
+Ausgabe über Button im Frontend: 0,5 PT
+Ergänzung um funktionale Programmierung: 0,5 PT

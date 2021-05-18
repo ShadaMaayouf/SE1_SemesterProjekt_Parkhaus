@@ -1,0 +1,3 @@
+MVC - Mananger- und Kundensicht
+TEMPLATE - Kennzahlen wie Summe der Tageseinnahmen
+SINGLETON - Parkhaus
